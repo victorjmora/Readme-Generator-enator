@@ -1,4 +1,3 @@
-// TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
 
@@ -26,7 +25,6 @@ function generateLicenseNotice(license) {
     return notice;
 }
 
-// TODO: Create an array of questions for user input
 const questions = [
     {
         type: 'input',
