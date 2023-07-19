@@ -4,6 +4,9 @@
 ## Description
 The objective of this challenge was the use our knowledge of Node js that we learned to create a Node js based application that with a series of questions will put into words what a readme would be for any assignment. Thanks to the instructor and TA's i was able to create the readme using node js
 
+## Video
+https://drive.google.com/file/d/1QMs2NaS7irPMcQyyWSxrz_nh8ybqW2jh/view
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
